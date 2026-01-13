@@ -4,9 +4,7 @@
 The business demonstrated **strong resilience throughout Q1**, with revenue and volume fluctuations driven primarily by **changes in demand rather than operational inefficiencies**. Despite month-to-month volatility, **profit margins remained stable**, highlighting effective cost control and disciplined pricing.
 
 ## 📊 Executive Dashboard Preview
-
-![Q1 Sales Dashboard](Assets/Screenshot (4167).png)
-
+![Q1 Sales Dashboard](Assets/Q1-Sales.gif)
 
 ## 📌 KPI Performance Summary
 
@@ -80,6 +78,6 @@ To maximize executive clarity in Power BI:
 - **Tooltips:** KPI-specific MoM insights for deeper analysis
 
 ---
-
+![Q1 Sales Dashboard](Assets/q1-sales-dashboard.png)
 ## 📍 Conclusion
 This dashboard provides a **clear, executive-level view of business performance**, enabling stakeholders to quickly assess **financial health, demand trends, and growth momentum** as the business transitions from Q1 into Q2.
