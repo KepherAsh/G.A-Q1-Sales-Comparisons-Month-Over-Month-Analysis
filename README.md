@@ -3,7 +3,10 @@
 ## 🏢 Business Health Overview
 The business demonstrated **strong resilience throughout Q1**, with revenue and volume fluctuations driven primarily by **changes in demand rather than operational inefficiencies**. Despite month-to-month volatility, **profit margins remained stable**, highlighting effective cost control and disciplined pricing.
 
----
+## 📊 Executive Dashboard Preview
+
+![Q1 Sales Dashboard](Assets/Screenshot (4167).png)
+
 
 ## 📌 KPI Performance Summary
 
